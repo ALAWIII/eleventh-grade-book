@@ -1,0 +1,10 @@
+[book]
+title = "البنية الأساسية لتكنولوجيا المعلومات"
+authors = ["ALI"]
+description = "summary to 6-20 pages"
+language = "ar"
+text-direction = 'ltr'
+
+[output.html]
+additional-css = ["custom.css"]
+additional-js = ["custom.js"]
