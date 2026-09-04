@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;700&family=Cairo:wght@600;700&display=swap');
 main {
   direction: rtl;
   text-align: right;
@@ -7,4 +8,13 @@ main pre,
 main code {
   direction: ltr;
   text-align: left;
+}
+
+
+html {
+  font-family: 'Noto Naskh Arabic', 'Amiri', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cairo', 'Tajawal', sans-serif;
 }
