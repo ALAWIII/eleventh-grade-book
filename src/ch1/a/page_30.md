@@ -16,4 +16,4 @@
 
 ### لماذا لا تعمل بعض ملحقات Apple إلا مع أجهزتها .
 
-![](../../../assets/ch1/page_30/apple-ecosystem.jpg)
+![](./images/page_30/apple-ecosystem.jpg)

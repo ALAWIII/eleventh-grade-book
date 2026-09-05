@@ -38,8 +38,8 @@
 
 ### جدول يقارن التكلفة الإجمالية للملكية (TCO) بين شراء خوادم مادية (On-Premises) واستخدام AWS لشركة ناشئة.
 
-![](../../../assets/ch1/page_43/self-host-vs-aws.jpg)
+![](./images/page_43/self-host-vs-aws.jpg)
 
 ### يوضح آلية "التوسع الديناميكي" (Auto-scaling) وكيف تستجيب السحابة تلقائياً للضغط المفاجئ في حركة المرور على موقع تجاري.
 
-![](../../../assets/ch1/page_43/peak-store.jpg)
+![](./images/page_43/peak-store.jpg)

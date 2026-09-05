@@ -28,4 +28,4 @@
 
 ### يقارن بين ADSL و FTTC و FTTP من حيث السرعة، الاستقرار، والتكلفة.
 
-![](../../../assets/ch1/page_47/adsl-fttc-fttp.jpg)
+![](./images/page_47/adsl-fttc-fttp.jpg)

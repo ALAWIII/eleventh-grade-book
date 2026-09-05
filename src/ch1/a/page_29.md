@@ -16,4 +16,4 @@
 
 ### الفرق بين الإنترنت، الإنترانت، والإكسترانت من حيث الوصول والأمان
 
-![](../../../assets/ch1/page_29/internet-extranet-intranet.png)
+![](./images/page_29/internet-extranet-intranet.png)

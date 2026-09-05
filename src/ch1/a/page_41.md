@@ -22,4 +22,4 @@
 
 ### 💡 مقارنة بين “التخزين السحابي” و “الحوسبة السحابية” من حيث التعريف، الاستخدام الأساسي، والأمثلة
 
-![](../../../assets/ch1/page_41/storage-vs-computing.jpg)
+![](./images/page_41/storage-vs-computing.jpg)

@@ -23,4 +23,4 @@
 
 ### 💡 كيف تختلف الخوادم الافتراضية عن الخوادم المادية
 
-![](../../../assets/ch1/page_40/physical-vs-vertical.jpg)
+![](./images/page_40/physical-vs-vertical.jpg)

@@ -18,4 +18,4 @@
 - **NFC و IR:** اتصال قريب المدى (مثل Apple AirDrop والتحكم عن بعد بالتلفزيون).
 - **Tethering:** استخدام هاتف محمول كنقطة اتصال لتوسيع نطاق الوصول إلى الشبكة.
 
-![](../../../assets/ch1/page_24/bluetooth-vs-usb.png)
+![](./images/page_24/bluetooth-vs-usb.png)

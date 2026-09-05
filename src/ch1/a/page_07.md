@@ -23,7 +23,7 @@
   - **الأمن:** ترتديها قوات الشرطة كاميرات مثبتة على الجسم لجمع الأدلة.
 - **الأجهزة المزروعة:** يمكن زرع أجهزة طبية حيوية مزروعة أو أدوات قابلة للزرع في الدماغ أو الجسم.
 
-![](../../../assets/ch1/page_07/steam-frame.webp)
+![](./images/page_07/steam-frame.webp)
 
 ---
 
@@ -33,4 +33,4 @@
 
 زراعة شريحة إلكترونية في الدماغ (neuralinks - elon musk)
 
-![](../../../assets/ch1/page_07/neuralinks-brain.jpg)
+![](./images/page_07/neuralinks-brain.jpg)

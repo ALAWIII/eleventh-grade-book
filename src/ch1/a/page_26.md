@@ -13,8 +13,8 @@
 
 ### رسم يوضح كيفية ارتباط شبكات LAN المتعددة لتشكيل WAN عبر دول مختلفة.
 
-![](../../../assets/ch1/page_26/lan-wan.png)
+![](./images/page_26/lan-wan.png)
 
 ### كيف يقوم vpn بتأمين مرور البيانات وتشفيرها
 
-![](../../../assets/ch1/page_26/vpn-works.png)
+![](./images/page_26/vpn-works.png)

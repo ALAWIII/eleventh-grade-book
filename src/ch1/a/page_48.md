@@ -23,4 +23,4 @@
 
 ## [vmware tutorial اضغط هنا](https://youtu.be/XzD8JIAOk2I?si=NL6m6cRa7lyd5Qe9)
 
-![](../../../assets/ch1/page_48/virtualization-containerization.png)
+![](./images/page_48/virtualization-containerization.png)
